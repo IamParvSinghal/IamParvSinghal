@@ -1,4 +1,4 @@
-![Header](bmw.gif)
+![Header](bmwsunset.gif)
 
 <h2 align="center" style="color:#ffcba4;">Hey there! My name is Parv and I am a 19-year old AI Enthusiast.</h2>
 

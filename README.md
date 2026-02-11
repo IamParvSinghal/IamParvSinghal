@@ -8,6 +8,12 @@
   <img src="https://komarev.com/ghpvc/?username=IamParvSinghal&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
 </p>
 
+<p align="center">
+I am a computer scientist who has spent time building software across research labs, startups, and product-focused companies. I am particularly fascinated by Software Engineering and the Philosophy of AI and how technical systems shape human behavior, how people interact with complex tools, and where the boundaries of intelligence and responsibility really lie.
+</p>
+
+###
+
 <div align="center">
   <a href="https://www.linkedin.com/in/parvsinghal/">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
@@ -27,7 +33,3 @@
 </div>
 
 <br/>
-
-<p align="center">
-I am a computer scientist who has spent time building software across research labs, startups, and product-focused companies. I am particularly fascinated by Software Engineering and the Philosophy of AI and how technical systems shape human behavior, how people interact with complex tools, and where the boundaries of intelligence and responsibility really lie.
-</p>

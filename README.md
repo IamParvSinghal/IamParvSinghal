@@ -1,7 +1,7 @@
 <img src="bmwsunset.gif" alt="Header" />
 
 <h2 align="center" style="color:#ffcba4;">
-  Hi! I’m Parv, and I’m a senior at the University of Wisconsin–Madison, graduating May 2026.
+  Hey there! I’m Parv Singhal, and I’m a senior at the University of Wisconsin–Madison, graduating in May 2026.
 </h2>
 
 <p align="center">

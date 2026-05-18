@@ -1,7 +1,7 @@
 <img src="bmwsunset.gif" alt="Header" />
 
 <h2 align="center" style="color:#ffcba4;">
-  Hey there! I’m Parv Singhal
+  Hey there! My name is Parv Singhal
 </h2>
 
 <p align="center">
